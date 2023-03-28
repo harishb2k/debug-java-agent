@@ -1,0 +1,5 @@
+Agent-Class: org.example.App
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: org.example.App
+Main-Class: org.example.Launcher
